@@ -544,79 +544,95 @@ li:hover {
     font-weight: normal;
 
 }
-.get-container{
+
+.get-container {
     height: 25vh;
     width: 90%;
     background-color: transparent;
     border: 1px solid rgb(169, 166, 166);
     border-radius: 15px;
 }
-.qr-box{
+
+.qr-box {
     display: flex;
     padding: 15px 19px
 }
-.qr-img{
+
+.qr-img {
     width: 20%;
     border-radius: 10px;
 }
-.get-text{
+
+.get-text {
     padding: 5px 25px;
 }
-.get-text p{
+
+.get-text p {
     color: grey;
     margin-top: 5px;
 }
-.gplay-box{
+
+.gplay-box {
     display: flex;
     height: 8vh;
     align-items: center;
     justify-content: center;
 
 }
-hr{
+
+hr {
     border: none;
     height: .5px;
     background-color: rgb(169, 166, 166);
 }
-.gplay-img{
+
+.gplay-img {
     width: 8%;
 }
-.gplay-text{
+
+.gplay-text {
     font-size: 16px;
     color: white;
 }
-.gplay-text:hover{
+
+.gplay-text:hover {
     cursor: pointer;
     text-decoration: underline;
 }
-.hr-line{
+
+.hr-line {
     height: .5px;
     border: none;
     background-color: rgb(146, 139, 139);
     margin: 30px 30px 30px 30px;
 }
+
 .bottom-text {
     color: white;
     display: flex;
     justify-content: space-between;
     padding: 0px 30px;
 }
-.bottom-text p{
+
+.bottom-text p {
     font-size: 15px;
 }
-.bottom-text a{
+
+.bottom-text a {
     margin-top: 0px;
     font-size: 15px;
     font-weight: normal;
 }
-.text-left{
+
+.text-left {
     display: flex;
     display: flex;
     align-items: center;
     justify-content: space-between;
     width: 32%;
 }
-.text-right{
+
+.text-right {
     display: flex;
     align-items: center;
     justify-content: space-between;
